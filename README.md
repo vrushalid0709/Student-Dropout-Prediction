@@ -7,48 +7,40 @@ Educational dropout is a critical challenge faced by universities worldwide. By 
 
 ✅ Key Objectives
 
-Perform Exploratory Data Analysis (EDA) to understand patterns and important factors influencing student status.
+1. Perform Exploratory Data Analysis (EDA) to understand patterns and important factors influencing student status.
 
-Preprocess and scale data for model training.
+2. Preprocess and scale data for model training.
 
-Train multiple ML classification models to predict student outcomes.
+3. Train multiple ML classification models to predict student outcomes.
 
-Compare model performances using evaluation metrics.
+4. Compare model performances using evaluation metrics.
 
-Provide predictions for new/unseen student data.
+5. Provide predictions for new/unseen student data.
 
 🧠 Machine Learning Models Used
 Model	Description
-Logistic Regression	Baseline model for multi-class classification
-Decision Tree	Interpretable model capturing decision paths
-Random Forest	Ensemble model with improved accuracy and generalization
-📊 Evaluation Metrics
+I. Logistic Regression	Baseline model for multi-class classification
+II. Decision Tree	Interpretable model capturing decision paths
+III. Random Forest	Ensemble model with improved accuracy and generalization
 
+
+📊 Evaluation Metrics
 The models were compared using:
 
-Accuracy
-
-Precision
-
-Recall
-
-F1-Score
-
-A performance comparison table and visual plots (Bar Plot + Heatmap) were generated to assess model effectiveness.
+1. Accuracy
+2. Precision
+3. Recall
+4. F1-Score
+A performance comparison table and visual plot (Bar Plot) was generated to assess model effectiveness.
 
 📂 Project Workflow
 
-Data Loading & Cleaning
-
-Exploratory Data Analysis (EDA)
-
-Feature Encoding and Scaling
-
-Model Training & Testing
-
-Model Comparison
-
-Prediction on Unseen Student Data
+1. Data Loading & Cleaning
+2. Exploratory Data Analysis (EDA)
+3. Feature Encoding and Scaling
+4. Model Training & Testing
+5. Model Comparison
+6. Prediction on Unseen Student Data
 
 🔮 Outcome
 
